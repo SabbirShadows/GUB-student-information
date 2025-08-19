@@ -84,11 +84,11 @@ Run the project:
 
 **Home Page:**
 
-<img width="1750" height="938" alt="find" src="https://github.com/user-attachments/assets/3cb4e6a4-2fc4-4c1c-96bb-9c48da73bdf8" />
+<img width="1833" height="890" alt="home" src="https://github.com/user-attachments/assets/9c726151-c3b0-45a0-b458-fbf0f6db89a2" />
 
 **Filtering Students:**
 
-<img width="1833" height="890" alt="home" src="https://github.com/user-attachments/assets/9c726151-c3b0-45a0-b458-fbf0f6db89a2" />
+<img width="1750" height="938" alt="find" src="https://github.com/user-attachments/assets/3cb4e6a4-2fc4-4c1c-96bb-9c48da73bdf8" />
 
 ## **License**
 
