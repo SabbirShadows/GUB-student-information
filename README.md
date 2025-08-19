@@ -83,9 +83,9 @@ Run the project:
 ---
 
 **Home Page:**
-
+![Alt_text](https://drive.google.com/file/d/1wcWLJvqXLE3wTyuVz43IksNWR3pqsQjX/view?usp=drive_link)
 **Filtering Students:**
-
+![Alt_text](https://drive.google.com/file/d/1tMJlpOijBywWisI2--0HAFrFgI6d048s/view?usp=drive_link)
 ## **License**
 
 This project is licensed under the **MIT License** – feel free to use and modify.
