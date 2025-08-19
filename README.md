@@ -90,16 +90,15 @@ Run the project:
 
 <img width="1750" height="938" alt="find" src="https://github.com/user-attachments/assets/3cb4e6a4-2fc4-4c1c-96bb-9c48da73bdf8" />
 
-## **License**
-
-This project is licensed under the **MIT License** – feel free to use and modify.
-
----
 
 ## **Author**
 
-**Md. Sabbir Hossain & Emon Talukder**  
-Green University of Bangladesh
+**Developed by  Md. Sabbir Hossain[21002309] & Emon Talukder[221002357]**
+
+GREEN UNIVERSITY OF BANGLADESH
+
+Contact: mail to gub.sabbir@gmail.com & emontalukder@gmail.com
+GitHub: https://github.com/EmonTalukder-77
 
 ---
 
