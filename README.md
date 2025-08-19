@@ -83,9 +83,13 @@ Run the project:
 ---
 
 **Home Page:**
-![Alt_text](https://drive.google.com/file/d/1wcWLJvqXLE3wTyuVz43IksNWR3pqsQjX/view?usp=drive_link)
+
+<img width="1750" height="938" alt="find" src="https://github.com/user-attachments/assets/3cb4e6a4-2fc4-4c1c-96bb-9c48da73bdf8" />
+
 **Filtering Students:**
-![Alt_text](https://drive.google.com/file/d/1tMJlpOijBywWisI2--0HAFrFgI6d048s/view?usp=drive_link)
+
+<img width="1833" height="890" alt="home" src="https://github.com/user-attachments/assets/9c726151-c3b0-45a0-b458-fbf0f6db89a2" />
+
 ## **License**
 
 This project is licensed under the **MIT License** – feel free to use and modify.
@@ -112,4 +116,8 @@ Green University of Bangladesh
    \*.zip
 
    \*.DS\_Store
+
+
+
+   
 
